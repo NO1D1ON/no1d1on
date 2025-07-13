@@ -4,9 +4,9 @@ Meet **Noidion** — a curious mind with a burning passion for **Artificial Inte
 
 To unlock his full potential, Noidion is currently learning to master several programming languages:
 
-- 🐍 **Python**
-- 🛢️ **SQL**
-- 💻 **C++**
+-  **Python**
+-  **SQL**
+-  **C++**
 
 Although still at a beginner’s stage, Noidion embraces every learning opportunity with determination and an open mind. He believes that growth is a journey, not a destination — and every line of code he writes is a step forward.
 
